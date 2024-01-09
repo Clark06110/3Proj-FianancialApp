@@ -1,4 +1,6 @@
 npm install 
+ou dans le cas où il y a des erreurs de dépendences
+npm install --legacy-peer-deps
 
 Ensuite npx expo start et suivez les instructions.
 

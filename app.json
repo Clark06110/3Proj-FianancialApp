@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "typescript",
-    "slug": "typescript",
+    "name": "3PROJ-FE",
+    "slug": "3PROJ-FE",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
